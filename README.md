@@ -29,6 +29,9 @@ php artisan serve
 
 <H1>Uso</H1>
 Después de iniciar el servidor de desarrollo, puedes acceder a la aplicación en http://localhost:8000. Desde aquí, podrá realizar las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar los productos.
+para iniciar sesión.
+User: Amaranta
+Password: Amaranta
 
 Características
 Listado de productos: Ver todos los productos disponibles.

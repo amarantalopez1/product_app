@@ -42,10 +42,3 @@ Tecnologías
 Backend: Laravel
 Frontend: HTML, CSS, JavaScript
 Base de datos: MySQL (AWS RDS)
-Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-Realiza un fork del proyecto.
-Crea una nueva rama para tu funcionalidad (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commits (git commit -m 'Agrega nueva funcionalidad').
-Sube tus cambios a la rama (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request.

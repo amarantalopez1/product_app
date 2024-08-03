@@ -29,9 +29,13 @@ php artisan serve
 
 <H1>Uso</H1>
 Después de iniciar el servidor de desarrollo, puedes acceder a la aplicación en http://localhost:8000. Desde aquí, podrá realizar las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar los productos.
+
+<H1>Nota importante</H1>
 para iniciar sesión.
 User: Amaranta
 Password: Amaranta
+
+El script de la base de datos se encuentra dentro de la ruta amaranta-lopez-ponce\database\Script_pueba_Amaranta.sql
 
 Características
 Listado de productos: Ver todos los productos disponibles.
